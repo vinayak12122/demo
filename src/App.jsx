@@ -27,6 +27,7 @@ const App = () => {
 
   return (
     <div className='w-screen bg-slate-900 h-screen p-5'>
+      <p className='text-white text-3xl'>Demo Site</p>
       <div className='gap-4 lg:flex w-full justify-center items-center pt-20 grid grid-cols-2' >
         <button
           className='bg-white p-2 text-black rounded hover:bg-white/80'
